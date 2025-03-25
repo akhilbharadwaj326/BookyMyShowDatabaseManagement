@@ -35,6 +35,8 @@
   * Certification: Rating (UA/A/U)
   * Duration: Runtime in minutes
 
+### Entity Relationship Diagram
+![ER_Diagram](BookMyshow.png)
 ### Table Structure
 ```sql
 -- Theatre table
